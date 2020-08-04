@@ -1,0 +1,4 @@
+database
+env
+*.csv
+.vector_cache
